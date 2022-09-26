@@ -23,6 +23,8 @@ N/A
 Please refer to the LICENSE in the repo.
 
 ---
-
+## Screenshots
+About me
 ![Alt Screenshot of application](./assets/images/Screenshot1.jpg)
+Applications
 ![Alt Screenshot of application](./assets/images/Screenshot2.jpg)
